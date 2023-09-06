@@ -41,13 +41,18 @@
 
 },
   "my_data":[
-  {"desc1":"description1 ser ",
-   "photo1":"https://easy-rental.fr/wp-content/uploads/2020/03/caract%C3%A9ristiques-du-macbook-pro-2019.jpg"},
-  {"desc2":"description2 ser","photo2":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc3":"description3 ser","photo3":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc4":"description4 ser","photo4":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc5":"description5 ser","photo5":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"descd":"description d ser","photod":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"desc1":"Cultural Impact: Movies and series have a significant impact on culture and society. They reflect and shape cultural norms, values, and trends, making them influential in shaping public opinion and perception.",
+   "photo1":"https://iili.io/J9aYgQs.webp"},
+  {"desc2":"Streaming Revolution: In recent years, the way people consume  Filmes e Séries has undergone a revolution, with the rise of streaming platforms like Netflix, Amazon Prime Video, Disney+, and many others. These platforms have made it easier than ever to access a vast library of content on-demand.",
+"photo2":"https://iili.io/J9aYSTX.webp"},
+  {"desc3":"Fan Culture: Movies and series often have dedicated fan bases, and fan culture plays a significant role. Conventions, fan fiction, fan art, and online communities are just some of the ways fans engage with their favorite content.",
+"photo3":"https://iili.io/J9aY4CG.webp"},
+  {"desc4":"Social Commentary: Many movies and series use storytelling to address social issues, provoke thought, and spark conversations about topics like equality, justice, and human rights. They can serve as powerful tools for raising awareness and promoting change.",
+"photo4":"https://iili.io/J9aYUjn.webp"},
+  {"desc5":"Evolution of Technology: Advances in technology have transformed the way movies and series are made. From CGI and special effects to the use of virtual reality and AI in production and distribution, technology continues to push the boundaries of what's possible in filmmaking.",
+"photo5":"https://iili.io/J9aY6Gf.webp"},
+  {"descd":"Nostalgia and Revivals: Nostalgia plays a significant role in entertainment, leading to revivals and reboots of beloved franchises. Old classics are remastered for new audiences while retaining their charm for long-time fans.",
+"photod":"https://iili.io/J9aYP44.jpg"}
    ]
  
 }
